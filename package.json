@@ -1,0 +1,19 @@
+{
+  "name": "webrtc-videocall-app",
+  "version": "1.0.0",
+  "description": "Video chat application using WebRTC and Node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelg123/webrtc-videocall-app.git"
+  },
+  "author": "Girish PAtel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelg123/webrtc-videocall-app/issues"
+  },
+  "homepage": "https://github.com/patelg123/webrtc-videocall-app#readme"
+}
