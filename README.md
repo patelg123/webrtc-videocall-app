@@ -2,19 +2,19 @@
 
 A video chat application which allows sharing video and audio between two connected users.
 
-Technologies used include:
+**Technologies used include:**
 
-WebRTC (Web Real-Time Communication): HTML5 APIs (getUserMedia, RTCPeerConnection, and RTCDataChannel) that allows you to to stream audio and video in real-time directly between browsers without any third-party plugins.
+* **WebRTC (Web Real-Time Communication):** HTML5 APIs (getUserMedia, RTCPeerConnection, and RTCDataChannel) that allows you to to stream audio and video in real-time directly between browsers without any third-party plugins.
 
-Node.js
+* **Node.js**
 
-Express.js
+* **Express.js**
 
-WebSockets
+* **WebSockets**
 
-Typescript
+* **Typescript**
 
-## Setup
+## Setup:
 
 ```sh
 # Clone the repo
